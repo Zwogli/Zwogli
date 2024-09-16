@@ -15,7 +15,7 @@
 <a href="https://discord.gg/#1793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1793" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills</h3>
+<h2 align="left">Skills</h2>
 <h2 align="left">Programming Languages</h2>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
