@@ -7,7 +7,8 @@ A passionate fullstack developer from Germany.
 👨‍💻 Check out my <a href="https://mathias-kohler.de" target="_blank" rel="noreferrer">projects</a> for a variety of applications, from task management tools to video platforms.<br><br>
 💡 I love solving complex problems, from automating workflows to creating engaging user experiences.<br><br>
 💬 Let’s connect! I’m open to collaborating on fullstack projects, backend services, or simply exchanging knowledge.<br><br>
-📫 Reach me at: <a href="mailto:mathiaskohler@mail.de">mathiaskohler@mail.de</a>
+📫 Reach me at: <a href="mailto:mathiaskohler@mail.de">mathiaskohler@mail.de</a><br><br>
+⚡ Fun fact: When I’m not coding, you’ll often find me cooking new dishes with my wife or bouldering at the local climbing gym.
 
 
 ## 🌐 Socials:
