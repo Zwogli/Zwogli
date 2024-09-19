@@ -2,11 +2,11 @@
 A passionate fullstack developer from Germany.
 
 ## 💫 About Me:
-🔭 I’m currently working on <strong>Videoflix</strong>, a Netflix-inspired web app that integrates Angular, Django, and PostgreSQL.<br>
-🌱 I’m constantly expanding my skills, currently focusing on Django, Deployment (NGINX, Gunicorn, Redis), and scalable system architecture.<br>
-👨‍💻 Check out my <a href="https://mathias-kohler.de" target="_blank" rel="noreferrer">projects</a> for a variety of applications, from task management tools to video platforms.<br>
-💡 I love solving complex problems, from automating workflows to creating engaging user experiences.<br>
-💬 Let’s connect! I’m open to collaborating on fullstack projects, backend services, or simply exchanging knowledge.<br>
+🔭 I’m currently working on <strong>Videoflix</strong>, a Netflix-inspired web app that integrates Angular, Django, and PostgreSQL.<br><br>
+🌱 I’m constantly expanding my skills, currently focusing on Django, Deployment (NGINX, Gunicorn, Redis), and scalable system architecture.<br><br>
+👨‍💻 Check out my <a href="https://mathias-kohler.de" target="_blank" rel="noreferrer">projects</a> for a variety of applications, from task management tools to video platforms.<br><br>
+💡 I love solving complex problems, from automating workflows to creating engaging user experiences.<br><br>
+💬 Let’s connect! I’m open to collaborating on fullstack projects, backend services, or simply exchanging knowledge.<br><br>
 📫 Reach me at: <a href="mailto:mathiaskohler@mail.de">mathiaskohler@mail.de</a>
 
 
