@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mathias
-A passionate fullstack developer from Germany.
+A passionate fullstack developer from Germany with a background in both frontend and backend technologies. I thrive on turning ideas into functional, user-friendly applications and love the challenge of solving complex problems through code.
 
 ## 💫 About Me:
 🔭 I’m currently working on <strong>Videoflix</strong>, a Netflix-inspired web app that integrates Angular, Django, and PostgreSQL.<br><br>
