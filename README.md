@@ -34,22 +34,23 @@
 <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer">![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)</a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
 <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)</a>
-<a href="https://www.npmjs.com" target="_blank" rel="noreferrer">![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)</a>
+<a href="https://rxjs.dev" target="_blank" rel="noreferrer">![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)</a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</a>
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) 
+<a href="https://gunicorn.org" target="_blank" rel="noreferrer">![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)</a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)</a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</a>
 <a href="https://redis.io" target="_blank" rel="noreferrer">![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)</a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)</a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</a>
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+<a href="https://www.gimp.org" target="_blank" rel="noreferrer">![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)</a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</a>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) 
+<a href="https://github.com" target="_blank" rel="noreferrer">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://bitwarden.com" target="_blank" rel="noreferrer">![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)</a>
 <a href="https://mathias-kohler.de" target="_blank" rel="noreferrer">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+
 
 # 📊 GitHub Stats:
 <p align="left">
