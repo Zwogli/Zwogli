@@ -1,11 +1,13 @@
 # Hi 👋, I'm Mathias
-A passionate fullstack developer from Germany, Karlsruhe
+A passionate fullstack developer from Germany.
 
 ## 💫 About Me:
-🔭 I’m currently working on videoflix<br>
-🌱 I’m currently learning Django, Deployment<br>
-👨‍💻 All of my projects are available at <a href="https://mathias-kohler.de" target="_blank" rel="noreferrer">mathias-kohler.de</a><br>
-📫 How to reach me mathiaskohler@mail.de
+🔭 I’m currently working on <strong>Videoflix</strong>, a Netflix-inspired web app that integrates Angular, Django, and PostgreSQL.
+🌱 I’m constantly expanding my skills, currently focusing on Django, Deployment (NGINX, Gunicorn, Redis), and scalable system architecture.
+👨‍💻 Check out my <a href="https://mathias-kohler.de" target="_blank" rel="noreferrer">projects</a> for a variety of applications, from task management tools to video platforms.
+💡 I love solving complex problems, from automating workflows to creating engaging user experiences.
+💬 Let’s connect! I’m open to collaborating on fullstack projects, backend services, or simply exchanging knowledge.
+📫 Reach me at: <a href="mailto:mathiaskohler@mail.de">mathiaskohler@mail.de</a>
 
 
 ## 🌐 Socials:
