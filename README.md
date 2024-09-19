@@ -2,7 +2,10 @@
 <h3 align="center">A passionate fullstack developer from Germany, Karlsruhe</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on videoflix<br>🌱 I’m currently learning Django, Deployment<br>👨‍💻 All of my projects are available at mathias-kohler.de<br>📫 How to reach me mathiaskohler@mail.de
+🔭 I’m currently working on videoflix<br>
+🌱 I’m currently learning Django, Deployment<br>
+👨‍💻 All of my projects are available at <a href="https://mathias-kohler.de" target="_blank" rel="noreferrer">mathias-kohler.de</a><br>
+📫 How to reach me mathiaskohler@mail.de
 
 
 ## 🌐 Socials:
