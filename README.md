@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mathias</h1>
-<h3 align="center">A passionate fullstack developer from Germany, Karlsruhe</h3>
+# Hi 👋, I'm Mathias
+A passionate fullstack developer from Germany, Karlsruhe
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on videoflix<br>
 🌱 I’m currently learning Django, Deployment<br>
 👨‍💻 All of my projects are available at <a href="https://mathias-kohler.de" target="_blank" rel="noreferrer">mathias-kohler.de</a><br>
